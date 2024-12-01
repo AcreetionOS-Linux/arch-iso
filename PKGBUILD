@@ -2,7 +2,7 @@
 # Contributor: Pierre Schmitz <pierre@archlinux.de>
 # Contributor: Gerardo Exequiel Pozzi <djgera@archlinux.org>
 
-pkgname=archiso
+pkgname=arch-iso
 pkgver=82
 pkgrel=1
 pkgdesc="Tools for creating Arch Linux live and install iso images"
