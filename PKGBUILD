@@ -43,7 +43,7 @@ source=(git+https://github.com/AcreetionOS-Linux/arch-iso.git)
 #  'BB8E6F1B81CF0BB301D74D1CBF425A01E68B38EF' # nl6720 <nl6720@archlinux.org>
 
 sha512sums=('SKIP')
-)
+
 
 check() {
   make -k check -C $pkgbase
